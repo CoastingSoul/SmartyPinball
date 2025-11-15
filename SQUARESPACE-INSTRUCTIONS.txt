@@ -1,0 +1,74 @@
+╔═══════════════════════════════════════════════════════════════╗
+║         SMARTY PINBALL - SQUARESPACE SETUP GUIDE              ║
+║                   (Takes 2 Minutes!)                          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+STEP-BY-STEP INSTRUCTIONS:
+
+1. OPEN THE FILE
+   ✓ Open "squarespace-embed.html" in any text editor
+     (Notepad, TextEdit, VS Code, etc.)
+
+2. COPY THE CODE
+   ✓ Select All: Press Ctrl+A (Windows) or Cmd+A (Mac)
+   ✓ Copy: Press Ctrl+C (Windows) or Cmd+C (Mac)
+
+3. GO TO YOUR SQUARESPACE SITE
+   ✓ Log into your Squarespace account
+   ✓ Navigate to the page where you want the pinball game
+   ✓ Click "Edit" to enter edit mode
+
+4. ADD A CODE BLOCK
+   ✓ Click the "+" button to add content
+   ✓ Scroll down and click "More"
+   ✓ Select "Code" (it has a </> icon)
+
+5. PASTE THE CODE
+   ✓ Click inside the code block
+   ✓ Paste: Press Ctrl+V (Windows) or Cmd+V (Mac)
+   ✓ You'll see all the game code appear
+
+6. SAVE AND PUBLISH
+   ✓ Click "Save" in the top left
+   ✓ Click "Exit" to leave edit mode
+   ✓ View your page to see the game!
+
+THAT'S IT! The game is now live on your Squarespace site! 🎉
+
+─────────────────────────────────────────────────────────────────
+
+TROUBLESHOOTING:
+
+Q: The code looks messy in the editor
+A: That's normal! It will display perfectly on the actual page.
+
+Q: The controls don't work
+A: Click on the game canvas first to focus it, then try the keys.
+
+Q: Can I customize the colors?
+A: Yes! See README.md for customization options.
+
+Q: The game doesn't fit my page
+A: The game has a responsive design. It will adapt to your page width.
+
+─────────────────────────────────────────────────────────────────
+
+CONTROLS:
+• SPACE - Launch ball
+• A or ← - Left flipper
+• D or → - Right flipper
+• NEW GAME button - Reset game
+• PAUSE button - Pause/unpause
+
+SCORING:
+• Bumpers: 100 points each
+• Targets: 50 points each
+• Hit all 3 bumpers in succession: 2x multiplier!
+
+─────────────────────────────────────────────────────────────────
+
+For more details, see:
+• DEPLOYMENT.md - Complete deployment guide
+• README.md - Full game documentation
+
+Need help? Create an issue on GitHub!
