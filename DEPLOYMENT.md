@@ -2,30 +2,43 @@
 
 ## Quick Start
 
-The game is contained in a single file: `index.html` (27KB)
+The game is available in two versions:
+- **`index.html`** (27KB) - Complete standalone HTML page
+- **`squarespace-embed.html`** (26KB) - **RECOMMENDED for Squarespace** - Copy-paste ready code block
 
 Simply open `index.html` in any modern web browser to play!
 
 ## Embedding in Squarespace
 
-### Option 1: Direct Code Injection (Recommended)
+### ⭐ Option 1: Direct Code Copy-Paste (EASIEST & RECOMMENDED)
 
-1. Log into your Squarespace site
-2. Navigate to the page where you want the game
-3. Click "Edit" on the page
-4. Add a **Code Block** (found under "More" in the content blocks)
-5. Copy the entire contents of `index.html`
-6. Paste into the code block
-7. Save and publish your page
+**Use the `squarespace-embed.html` file for best results!**
+
+1. Open `squarespace-embed.html` in a text editor
+2. Select all content (Ctrl+A / Cmd+A) and copy (Ctrl+C / Cmd+C)
+3. Log into your Squarespace site
+4. Navigate to the page where you want the game
+5. Click "Edit" on the page
+6. Add a **Code Block** (found under "More" in the content blocks)
+7. Paste the code directly into the code block (Ctrl+V / Cmd+V)
+8. Save and publish your page
+
+**Why use squarespace-embed.html?**
+- ✅ Pre-formatted for Squarespace Code Blocks
+- ✅ No HTML/head/body tags that can conflict with Squarespace
+- ✅ Properly scoped CSS that won't affect other page elements
+- ✅ Global namespace handling to avoid JavaScript conflicts
+- ✅ Same functionality as index.html
+- ✅ Just copy and paste - nothing else needed!
 
 **Pros:**
 - No file uploads needed
 - Game loads directly on your page
 - Easiest to update (just paste new code)
+- Optimized specifically for Squarespace
 
 **Cons:**
-- Code block may look complex in the editor
-- Page editor might be slower with large code blocks
+- Code block will show raw code in the editor (but displays perfectly on the page)
 
 ### Option 2: File Upload + Embed Block
 

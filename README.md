@@ -2,6 +2,18 @@
 
 A fun, elaborate virtual pinball game featuring the Smarty LLC brand and robot mascot. Built as a self-contained HTML file that can be easily embedded into any website, including Squarespace.
 
+## 🚀 Quick Squarespace Setup
+
+**Want to add this to your Squarespace site? It's as easy as copy-paste!**
+
+1. Open `squarespace-embed.html`
+2. Copy all the code (Ctrl+A, then Ctrl+C)
+3. In Squarespace, add a **Code Block** to your page
+4. Paste the code (Ctrl+V)
+5. Done! 🎉
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
+
 ![Smarty Pinball Game](https://github.com/user-attachments/assets/0f02038b-bb07-4fe8-a934-9ecf2d74f46c)
 
 ## 🎮 Features
@@ -74,8 +86,10 @@ A fun, elaborate virtual pinball game featuring the Smarty LLC brand and robot m
 
 ## 📁 Files
 
-- **index.html** - Complete self-contained game (HTML + CSS + JavaScript)
+- **squarespace-embed.html** - ⭐ **RECOMMENDED** Copy-paste ready version for Squarespace Code Blocks
+- **index.html** - Complete standalone HTML page
 - **README.md** - This documentation file
+- **DEPLOYMENT.md** - Detailed deployment guide for Squarespace
 
 ## 🛠️ Technical Details
 
